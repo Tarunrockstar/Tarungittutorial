@@ -6,4 +6,4 @@ iam ingesting the more data
 master hear
 iam fixing this bug 
 
-iam igesting batch data 
+iam batch data
