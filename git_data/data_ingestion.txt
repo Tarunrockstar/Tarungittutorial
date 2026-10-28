@@ -5,5 +5,4 @@ iam ingesting the more data
 
 master hear
 iam fixing this bug 
-
-iam batch data
+iam ingesting big data
